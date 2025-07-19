@@ -1,7 +1,3 @@
-Here’s a README file for your SQL script that explains its purpose, usage, and the structure of the code:
-
----
-
 # Employee Migration SQL Script
 
 This SQL script is designed to migrate employee data from an existing database (assumed to be part of the Human Resources system) into a new table called `employeemigration`. It performs the following operations:
@@ -130,9 +126,6 @@ Finally, the script queries the `employeemigration` table to display all the rec
 * **Logging:** Add logging to track any errors during data migration.
 * **Parameterization:** The script can be enhanced to accept dynamic parameters for filtering data (such as hire date).
 * **Database Backup:** Before running the script in a production environment, consider creating a backup of the database to avoid data loss.
-
-## License
-
 This script is open-source and free to use. It is licensed under the MIT License.
 
 ---
