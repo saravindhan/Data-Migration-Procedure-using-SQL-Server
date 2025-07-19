@@ -129,5 +129,3 @@ Finally, the script queries the `employeemigration` table to display all the rec
 This script is open-source and free to use. It is licensed under the MIT License.
 
 ---
-
-This README provides a comprehensive explanation of the SQL script and can be used in a GitHub repository or similar version control systems to share the script with others.
